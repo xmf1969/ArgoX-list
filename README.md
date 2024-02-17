@@ -64,6 +64,9 @@
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
 ```
+```
+bash <(wget -qO- https://raw.githubusercontent.com/xmf1969/ArgoX-list/main/argox.sh)
+```
 
   | Option 参数 | Remark 备注 |
   | -----------| ------ |
